@@ -1,0 +1,7 @@
+What happens to saved game when force quit? Should I have periodic saves?
+
+Mnemonics
+
+Make speed of animation, not time, constant
+
+Allow custom face card images
